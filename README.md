@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme Ferreira, desenvolvedor front-end focado em React
+## Olá eu sou o Guilherme Ferreira ✌
 
 <div align="center">
   <a href="https://github.com/ferreiraguihh">
