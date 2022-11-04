@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme Ferreira ✌
+## Hello I am Guilherme Ferreira ✌
 
 <div align="center">
   <a href="https://github.com/ferreiraguihh">
